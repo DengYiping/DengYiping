@@ -1,4 +1,4 @@
-# Hi there, I'm DengYiping 👋
+# Hi there, I'm Yiping Deng 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/DengYiping?label=Follow&style=social)](https://github.com/DengYiping)
 [![GitHub stars](https://img.shields.io/github/stars/DengYiping?label=Stars&style=social)](https://github.com/DengYiping)
