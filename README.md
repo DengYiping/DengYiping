@@ -6,14 +6,12 @@
 ## 🚀 About Me
 I'm a AI infrastructure engineer at HubSpot with a love for creating innovative solutions and sharing knowledge with the community.
 
-- 🔭 I’m currently working on [codebase-ai-prompt-generator](https://github.com/DengYiping/codebase-ai-prompt-generator)
-- 🌱 I’m currently learning how to write CUDA kernels
+- 🔭 I’m currently working on [cuda-llm-learning](https://github.com/DengYiping/cuda-llm-learning)
+- 🌱 I’m currently learning how to write CUDA kernels for training LLMs
 - 👯 I’m looking to collaborate on AI tools
 - 🤔 I’m looking for help with AI system and big data system
 - 💬 Ask me about Spark, LLM
 - 📫 How to reach me: [yiping.deng.98@gmail.com](mailto:yiping.deng.98@gmail.com)
-- 😄 Pronouns: He / him
-- ⚡ Fun fact: originally from China, studied in USA / Germany, living in Ireland now
 
 ## 🛠️ Technologies & Tools
 I speak fluently in:
@@ -39,6 +37,3 @@ and I am proficient in:
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/yipingdeng)
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=DengYiping&theme=radical)
