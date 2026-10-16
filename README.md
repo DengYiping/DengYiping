@@ -1,20 +1,17 @@
 # Hi there, I'm Yiping Deng 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/DengYiping?label=Follow&style=social)](https://github.com/DengYiping)
 [![GitHub stars](https://img.shields.io/github/stars/DengYiping?label=Stars&style=social)](https://github.com/DengYiping)
 
 ## 🚀 About Me
-I'm a AI infrastructure engineer at HubSpot with a love for creating innovative solutions and sharing knowledge with the community.
+I'm a Tech Lead at HubSpot working on AI and data infra, with a love for creating innovative solutions and sharing knowledge with the community.
 
-- 🔭 I’m currently working on [cuda-llm-learning](https://github.com/DengYiping/cuda-llm-learning)
-- 🌱 I’m currently learning how to write CUDA kernels for training LLMs
-- 👯 I’m looking to collaborate on AI tools
-- 🤔 I’m looking for help with AI system and big data system
-- 💬 Ask me about Spark, LLM
+- 👯 I’m looking to collaborate on AI infra tooling / big data system
+- 💬 Ask me about CUDA / LLM / AI infra / big data
 - 📫 How to reach me: [yiping.deng.98@gmail.com](mailto:yiping.deng.98@gmail.com)
 
+
 ## 🛠️ Technologies & Tools
-I speak fluently in:
+I speak fluently (without any LLM help) in:
 
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=openjdk)
@@ -22,6 +19,7 @@ I speak fluently in:
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 ![Scala](https://img.shields.io/badge/-Scala-000?&logo=Scala)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
 
 
 and I am proficient in:
@@ -30,10 +28,7 @@ and I am proficient in:
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-
-## 📈 GitHub Stats
-![DengYiping's GitHub stats](https://github-readme-stats.vercel.app/api?username=DengYiping&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DengYiping&langs_count=8&theme=radical&layout=compact)
+![CUDA](https://img.shields.io/badge/-CUDA-000?&logo=CUDA)
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin)](https://www.linkedin.com/in/yipingdeng)
